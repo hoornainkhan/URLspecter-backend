@@ -1,0 +1,13 @@
+{
+  "name": "url-specter",
+  "version": "0.1.0",
+  "private": true,
+  "module": "server.ts",
+  "scripts": {
+    "dev": "bun --watch server.ts",
+    "start": "bun server.ts"
+  },
+  "dependencies": {
+    "@elysia/graphql-yoga": "^1.4.1"
+  }
+}

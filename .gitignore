@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Bun lockfile (text lockfile bun.lock is committed; the binary one is not)
+bun.lockb
+
+# Logs
+*.log
+
+# OS
+.DS_Store
